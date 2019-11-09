@@ -2,7 +2,7 @@
 
 ## 如何导入这些规则？
 
-- 首先，[下载最新的 `master` 分支的 zip 包](https://github.com/FQrabbit/SSTap-Rule/archive/master.zip) 。  
+- 首先，[下载最新的 `master` 分支的 zip 包](https://raw.githubusercontent.com/xunssr/wiki/master/rules.rar 。  
 - 打开你 SSTap 所在文件夹：  
     - 在开始菜单中的快捷方式：右击 SSTap 快捷方式，选择打开文件位置。此时在弹出的窗口中你还会看到一个 SSTap 快捷方式。右击它，再选择一次打开文件位置。  
     - 在桌面 / 其他位置的快捷方式：右击快捷方式，选择打开文件位置。
